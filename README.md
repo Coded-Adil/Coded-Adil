@@ -2,7 +2,8 @@
 - 👀 I’m interested in Learning, Coding, Creating Fun project's & more learning
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me
-  Insta- @[_.adil_rahman._](https://www.instagram.com/_.adil_rahman._/)<br>
+  Insta- @[_.adil_rahman._](https://www.instagram.com/_.adil_rahman._/)
+<br>
   LinkedIn- @[Adil Rahman](https://www.linkedin.com/in/adil-rahman-635110264/)
 
 
