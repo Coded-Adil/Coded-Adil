@@ -2,7 +2,7 @@
 <h1 align="center">ADIL RAHMAN</h1>
 <h3 align="center">Bring Me Coffee</h3>
 <h1 align="left">💫 About Me:</h1>
-🌱 I’m currently MERN Stack<br>💬 Ask me about itsadil2022@gmail.com<br>⚡ Fun fact: I Like Coffee & Burgers But Not Together
+🌱 I’m currently MERN Stack<br>⚡ Fun fact: I Like Coffee & Burgers But Not Together
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.adil_rahman._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adil-rahman-635110264) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adil_xr) <a href="https://codeforces.com/profile/zombie_ezio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zombie_ezio" height="20" width="40" /></a>
