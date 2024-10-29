@@ -1,4 +1,4 @@
-[<img align="center" width="auto" src="/CA-banner.jpeg">](#)
+[<img align="center" width="auto" src="/GIT.png">](#)
 <h1 align="center">ADIL RAHMAN</h1>
 <h3 align="center">Bring Me Coffee</h3>
 <h1 align="left">💫 About Me:</h1>
