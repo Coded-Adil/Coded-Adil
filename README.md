@@ -8,7 +8,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nekokaito&theme=tokyonight&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=coded-adil&theme=radical&hide_border=true"
     />
     <img
       alt="Top Languages"
