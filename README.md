@@ -55,8 +55,10 @@
   <br>
 
 <hr />
-  
-  <img align="left" height="150"     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwxdmw4MGJlNDU4ZWJwMjExZHpvc29kM3g0cHF1dWk1MGVvOHNhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3brYLms1bhv2/giphy.gif"  />
+
+  <img height="150"     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwxdmw4MGJlNDU4ZWJwMjExZHpvc29kM3g0cHF1dWk1MGVvOHNhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3brYLms1bhv2/giphy.gif"  />
+
+  <hr />
 
   <h3>✍️ Random Dev Quote</h3>
 
