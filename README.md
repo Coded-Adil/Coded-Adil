@@ -40,7 +40,7 @@
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
     </a>
     <a href="https://x.com/adil_xr" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=x&color=%23ffffff" alt="x" width="47" height="35" />
     </a>
     <a href="mailto:itsadil2022@gmail.com" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
