@@ -5,19 +5,6 @@
   <h3>Leveling up one commit at a time</h3>
   <hr />
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=coded-adil&theme=radical&hide_border=true"
-    />
-    <img
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=nekokaito&theme=graywhite&hide_border=true&bg_color=e6e7ed"
-    />
-  </picture>
-
-  <hr />
-
   <h3>🧠 Languages & Skills</h3>
 
   <br>
