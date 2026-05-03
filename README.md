@@ -13,30 +13,7 @@
 
   <br><br>
   <hr />
-
-  <h3>🌐 Socials</h3>
-
-  <div align="center">
-    <a href="https://discord.com/channels/@__akuma.__" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-    </a>
-    <a href="https://linkedin.com/in/coded-adil" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-    </a>
-    <a href="https://instagram.com/_.adil_rahman._" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-    </a>
-    <a href="https://x.com/adil_xr" target="_blank">
-      <img src="https://www.readmecodegen.com/api/social-icon?name=x&color=%23ffffff" alt="x" width="47" height="35" />
-    </a>
-    <a href="mailto:itsadil2022@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-    </a>
-  </div>
-
-  <br>
-  <hr />
-
+  
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coded-Adil&theme=radical&hide_border=true" /><br/>
   <br>
